@@ -23,11 +23,11 @@ My current priority is building public, production-style pipeline projects that 
 
 Relevant coursework includes Machine Learning, Artificial Intelligence, Deep Learning, Probability & Statistics, Data Structures, Analysis of Algorithms, Financial Statement Analysis, and Machine Learning in Business.
 
-## Current Work
+## Most Recent Work
 
 ### Analytics Engineering / Data Science Intern — Cornell Animal Health Diagnostic Center, QMPS
 
-I'm currently building data automation and reporting systems for real-world dairy health and training workflows.
+I built data automation and reporting systems for real-world dairy health and training workflows.
 
 Highlights include:
 

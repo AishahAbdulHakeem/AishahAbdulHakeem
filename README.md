@@ -1,6 +1,6 @@
 # Hi, I'm Aishah 👋
 
-I'm a Computer Science student at Cornell and incoming MS student in Data Analytics & Visualization, building toward a career in **automation engineering, data engineering, and technical leadership**.
+I'm a Computer Science Graduate from Cornell and MS student in Data Analytics & Visualization at Morgan State University, building toward a career in **automation engineering, data engineering, and technical leadership**.
 
 My work sits at the intersection of software engineering, data pipelines, workflow automation, and analytics. I like building systems that turn messy real-world data into structured, reliable, decision-ready tools.
 
